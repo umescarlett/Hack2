@@ -1,4 +1,4 @@
-if script_key then
+id script_key then
 return
 end
 --Put Your Key Between ""
@@ -162,7 +162,7 @@ getgenv().Setting = {
             },
         },
         ["Blox Fruit"] = {
-            ["Enable"] = true,
+            ["Enable"] = false,
             ["Delay"] = 4,
             ["Skills"] = {
                 ["Z"] = {
